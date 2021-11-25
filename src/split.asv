@@ -4,7 +4,6 @@ load DSPI_StereoRadio_MATLAB.mat
 Fs = 400e3;
 Ts = 1/(Fs);
 
-
 RXw =  fft(RXn);
 num_samples = length(RXw);
 freq_bin_factor = Fs/num_samples;
@@ -60,7 +59,8 @@ plot(left)
 subplot(2,1,2);
 plot(right)
 sound(2*dec_right,Fs/2)
-
+input("Press enter")
+sound(2*dec_left,Fs/2)
 
 function filtered_sig = ideal_lowpass(signal_fft,cutoff_freq,Fs)
     num_samples = length(signal_fft);
@@ -71,14 +71,7 @@ function filtered_sig = ideal_lowpass(signal_fft,cutoff_freq,Fs)
     filtered_sig = rectangle .* signal_fft;
 end
 
-function modsig = modulate_signal(signal_fft, shift_down_freq, Fs)
-    
-%     num_samples = length(signal_fft);
-%     shift_freq_index = find_freq_index(shift_down_freq,Fs,num_samples);
-%     first_term = circshift(signal_fft,-shift_freq_index);
-%     second_term = circshift(signal_fft,-(mod(-shift_freq_index,num_samples)));
-%     modsig = first_term + second_term;
-%     
+function modsig = modulate_signal(signal_fft, shift_down_freq, Fs) 
     time_sig = ifft(signal_fft);
     num_samples = length(signal_fft);
     mod_time_sig = time_sig .* cos(2*pi*shift_down_freq*(0:num_samples-1)/Fs)';
@@ -87,5 +80,4 @@ end
 
 function index = find_freq_index(freq,Fs, N)
     index = floor(freq*N/Fs);
-%     index = freq*
 end

@@ -1,0 +1,565 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.8) (preloaded format=xelatex 2021.8.30)  24 NOV 2021 17:32
+entering extended mode
+**c:/Users/Admin/Documents/UTD/DSP/DSP_Project/report/report.tex
+(c:/Users/Admin/Documents/UTD/DSP/DSP_Project/report/report.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27> (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 112.
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/ieeetran\IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen138
+\@IEEEtrantmpdimenB=\dimen139
+\@IEEEtrantmpdimenC=\dimen140
+\@IEEEtrantmpcountA=\count178
+\@IEEEtrantmpcountB=\count179
+\@IEEEtrantmpcountC=\count180
+\@IEEEtrantmptoksA=\toks16
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 503.
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using DVI output.
+\@IEEEnormalsizeunitybaselineskip=\dimen141
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen142
+\CLASSINFOnormalsizeunitybaselineskip=\dimen143
+\IEEEnormaljot=\dimen144
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+\IEEEquantizedlength=\dimen145
+\IEEEquantizedlengthdiff=\dimen146
+\IEEEquantizedtextheightdiff=\dimen147
+\IEEEilabelindentA=\dimen148
+\IEEEilabelindentB=\dimen149
+\IEEEilabelindent=\dimen150
+\IEEEelabelindent=\dimen151
+\IEEEdlabelindent=\dimen152
+\IEEElabelindent=\dimen153
+\IEEEiednormlabelsep=\dimen154
+\IEEEiedmathlabelsep=\dimen155
+\IEEEiedtopsep=\skip47
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@IEEEsubequation=\count185
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count186
+\c@table=\count187
+\@IEEEeqnnumcols=\count188
+\@IEEEeqncolcnt=\count189
+\@IEEEsubeqnnumrollback=\count190
+\@IEEEquantizeheightA=\dimen156
+\@IEEEquantizeheightB=\dimen157
+\@IEEEquantizeheightC=\dimen158
+\@IEEEquantizeprevdepth=\dimen159
+\@IEEEquantizemultiple=\count191
+\@IEEEquantizeboxA=\box50
+\@IEEEtmpitemindent=\dimen160
+\IEEEPARstartletwidth=\dimen161
+\c@IEEEbiography=\count192
+\@IEEEtranrubishbin=\box51
+) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count193
+) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count194
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count195
+\c@listtotal=\count196
+\c@listcount=\count197
+\c@liststart=\count198
+\c@liststop=\count199
+\c@citecount=\count266
+\c@citetotal=\count267
+\c@multicitecount=\count268
+\c@multicitetotal=\count269
+\c@instcount=\count270
+\c@maxnames=\count271
+\c@minnames=\count272
+\c@maxitems=\count273
+\c@minitems=\count274
+\c@citecounter=\count275
+\c@maxcitecounter=\count276
+\c@savedcitecounter=\count277
+\c@uniquelist=\count278
+\c@uniquename=\count279
+\c@refsection=\count280
+\c@refsegment=\count281
+\c@maxextratitle=\count282
+\c@maxextratitleyear=\count283
+\c@maxextraname=\count284
+\c@maxextradate=\count285
+\c@maxextraalpha=\count286
+\c@abbrvpenalty=\count287
+\c@highnamepenalty=\count288
+\c@lownamepenalty=\count289
+\c@maxparens=\count290
+\c@parenlevel=\count291
+\blx@tempcnta=\count292
+\blx@tempcntb=\count293
+\blx@tempcntc=\count294
+\blx@maxsection=\count295
+\blx@maxsegment@0=\count296
+\blx@notetype=\count297
+\blx@parenlevel@text=\count298
+\blx@parenlevel@foot=\count299
+\blx@sectionciteorder@0=\count300
+\blx@entrysetcounter=\count301
+\blx@biblioinstance=\count302
+\labelnumberwidth=\skip50
+\labelalphawidth=\skip51
+\biblabelsep=\skip52
+\bibitemsep=\skip53
+\bibnamesep=\skip54
+\bibinitsep=\skip55
+\bibparsep=\skip56
+\bibhang=\skip57
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language79
+\c@mincomprange=\count303
+\c@maxcomprange=\count304
+\c@mincompwidth=\count305
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'ieee.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count306
+\c@savedafterword=\count307
+\c@annotator=\count308
+\c@savedannotator=\count309
+\c@author=\count310
+\c@savedauthor=\count311
+\c@bookauthor=\count312
+\c@savedbookauthor=\count313
+\c@commentator=\count314
+\c@savedcommentator=\count315
+\c@editor=\count316
+\c@savededitor=\count317
+\c@editora=\count318
+\c@savededitora=\count319
+\c@editorb=\count320
+\c@savededitorb=\count321
+\c@editorc=\count322
+\c@savededitorc=\count323
+\c@foreword=\count324
+\c@savedforeword=\count325
+\c@holder=\count326
+\c@savedholder=\count327
+\c@introduction=\count328
+\c@savedintroduction=\count329
+\c@namea=\count330
+\c@savednamea=\count331
+\c@nameb=\count332
+\c@savednameb=\count333
+\c@namec=\count334
+\c@savednamec=\count335
+\c@translator=\count336
+\c@savedtranslator=\count337
+\c@shortauthor=\count338
+\c@savedshortauthor=\count339
+\c@shorteditor=\count340
+\c@savedshorteditor=\count341
+\c@labelname=\count342
+\c@savedlabelname=\count343
+\c@institution=\count344
+\c@savedinstitution=\count345
+\c@lista=\count346
+\c@savedlista=\count347
+\c@listb=\count348
+\c@savedlistb=\count349
+\c@listc=\count350
+\c@savedlistc=\count351
+\c@listd=\count352
+\c@savedlistd=\count353
+\c@liste=\count354
+\c@savedliste=\count355
+\c@listf=\count356
+\c@savedlistf=\count357
+\c@location=\count358
+\c@savedlocation=\count359
+\c@organization=\count360
+\c@savedorganization=\count361
+\c@origlocation=\count362
+\c@savedoriglocation=\count363
+\c@origpublisher=\count364
+\c@savedorigpublisher=\count365
+\c@publisher=\count366
+\c@savedpublisher=\count367
+\c@language=\count368
+\c@savedlanguage=\count369
+\c@origlanguage=\count370
+\c@savedoriglanguage=\count371
+\c@pageref=\count372
+\c@savedpageref=\count373
+\shorthandwidth=\skip58
+\shortjournalwidth=\skip59
+\shortserieswidth=\skip60
+\shorttitlewidth=\skip61
+\shortauthorwidth=\skip62
+\shorteditorwidth=\skip63
+\locallabelnumberwidth=\skip64
+\locallabelalphawidth=\skip65
+\localshorthandwidth=\skip66
+\localshortjournalwidth=\skip67
+\localshortserieswidth=\skip68
+\localshorttitlewidth=\skip69
+\localshortauthorwidth=\skip70
+\localshorteditorwidth=\skip71
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-unicode.def)
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count374
+\c@textcitetotal=\count375
+\c@textcitemaxnames=\count376
+\c@biburlbigbreakpenalty=\count377
+\c@biburlbreakpenalty=\count378
+\c@biburlnumpenalty=\count379
+\c@biburlucpenalty=\count380
+\c@biburllcpenalty=\count381
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count382
+)
+Package biblatex Info: Trying to load bibliography style 'ieee'...
+Package biblatex Info: ... file 'ieee.bbx' found.
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.bbx
+File: ieee.bbx 2021/03/25 v1.3e biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric-comp.bbx
+File: numeric-comp.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
+File: numeric.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count383
+\c@bbx:relatedtotal=\count384
+))))
+Package biblatex Info: Trying to load citation style 'ieee'...
+Package biblatex Info: ... file 'ieee.cbx' found.
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.cbx
+File: ieee.cbx 2021/03/25 v1.3e biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric-comp.cbx
+File: numeric-comp.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count385
+\c@cbx@tempcntb=\count386
+\c@cbx@tempcntc=\count387
+\c@cbx@tempcntd=\count388
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\cites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip72
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen162
+)) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen163
+) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count389
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count390
+\leftroot@=\count391
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count392
+\DOTSCASE@=\count393
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+\big@size=\dimen164
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count394
+\c@MaxMatrixCols=\count395
+\dotsspace@=\muskip21
+\c@parentequation=\count396
+\dspbrk@lvl=\count397
+\tag@help=\toks19
+\row@=\count398
+\column@=\count399
+\maxfields@=\count400
+\andhelp@=\toks20
+\eqnshift@=\dimen165
+\alignsep@=\dimen166
+\tagshift@=\dimen167
+\tagwidth@=\dimen168
+\totwidth@=\dimen169
+\lineht@=\dimen170
+\@envbody=\toks21
+\multlinegap=\skip73
+\multlinetaggap=\skip74
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen171
+\lightrulewidth=\dimen172
+\cmidrulewidth=\dimen173
+\belowrulesep=\dimen174
+\belowbottomsep=\dimen175
+\aboverulesep=\dimen176
+\abovetopsep=\dimen177
+\cmidrulesep=\dimen178
+\cmidrulekern=\dimen179
+\defaultaddspace=\dimen180
+\@cmidla=\count401
+\@cmidlb=\count402
+\@aboverulesep=\dimen181
+\@belowrulesep=\dimen182
+\@thisruleclass=\count403
+\@lastruleclass=\count404
+\@thisrulewidth=\dimen183
+) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen184
+\ar@mcellbox=\box54
+\extrarowheight=\dimen185
+\NC@list=\toks23
+\extratabsurround=\skip75
+\backup@length=\skip76
+\ar@cellbox=\box55
+)
+\TX@col@width=\dimen186
+\TX@old@table=\dimen187
+\TX@old@col=\dimen188
+\TX@target=\dimen189
+\TX@delta=\dimen190
+\TX@cols=\count405
+\TX@ftn=\toks24
+) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen191
+\Gin@req@width=\dimen192
+) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count406
+\float@exts=\toks25
+\float@box=\box56
+\@float@everytoks=\toks26
+\@floatcapt=\box57
+)
+\@quotelevel=\count407
+\@quotereset=\count408
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xetex.def
+File: l3backend-xetex.def 2021-08-04 L3 backend support: XeTeX
+ ()
+\c__kernel_sys_dvipdfmx_version_int=\count409
+\l__color_backend_stack_int=\count410
+\g__color_backend_stack_int=\count411
+\g__graphics_track_int=\count412
+\l__pdf_internal_box=\box58
+\g__pdf_backend_object_int=\count413
+\g__pdf_backend_annotation_int=\count414
+\g__pdf_backend_link_int=\count415
+) (c:\Users\Admin\Documents\UTD\DSP\DSP_Project\report\build\report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 23.
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+
+-- Lines per column: 58 (exact).
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-08-27 L3 programming layer (loader) 
+)
+Package biblatex Info: ... and expl3
+(biblatex)             2021-08-27 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2021-08-27 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout3 = `report.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'report.bbl' found.
+ (c:\Users\Admin\Documents\UTD\DSP\DSP_Project\report\build\report.bbl)
+Package biblatex Info: Reference section=0 on input line 23.
+Package biblatex Info: Reference segment=0 on input line 23.
+ [1
+
+
+
+] (c:\Users\Admin\Documents\UTD\DSP\DSP_Project\report\build\report.aux)
+Package logreq Info: Writing requests to 'report.run.xml'.
+\openout1 = `report.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 10450 strings out of 411335
+ 191154 string characters out of 2832716
+ 938489 words of memory out of 3000000
+ 30758 multiletter control sequences out of 15000+600000
+ 429127 words of font info for 71 fonts, out of 8000000 for 9000
+ 1351 hyphenation exceptions out of 8191
+ 57i,6n,66p,1183b,3608s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on c:\Users\Admin\Documents\UTD\DSP\DSP_Project\report\build\report.xdv (1 page, 2044 bytes).

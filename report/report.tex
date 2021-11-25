@@ -1,0 +1,66 @@
+\RequirePackage[OT1]{fontenc} 
+\documentclass[journal]{IEEEtran}
+
+% *** CITATION PACKAGES ***
+\usepackage[style=ieee]{biblatex} 
+\bibliography{example_bib.bib}    %your file created using JabRef
+
+% *** MATH PACKAGES ***
+\usepackage{amsmath}
+
+% Table Packages
+\usepackage{booktabs}
+\usepackage{tabularx}
+
+% *** PDF, URL AND HYPERLINK PACKAGES ***
+\usepackage{url}
+% correct bad hyphenation here
+\hyphenation{op-tical net-works semi-conduc-tor}
+\usepackage{graphicx}  %needed to include png, eps figures
+\graphicspath{{./images/}}
+\usepackage{float}  % used to fix location of images i.e.\begin{figure}[H]
+
+\begin{document}
+
+\title{Stereo Radio Signals}
+% \\ \small{EE4361 Class Project}
+
+% author names 
+\author{STEPHEN ANSEL CAMPBELL \\
+    \emph{sac170630@utdallas.edu} \\
+    EE 4361 --- INTRO TO DIGITAL SIGNAL PROCESSING
+}
+
+% The report headers
+\markboth{EE 4361 Dr. Issa Panahi, \today}%do not delete next lines
+{EE 4361 Dr. Panahi}
+
+% make the title area
+\maketitle
+
+% As a general rule, do not put math, special symbols or citations
+% in the abstract or keywords.
+\begin{abstract}
+    Overall, In this lab  overall familiarity with the key parameters and
+    performance of practical RF mixer was gained. The importance of Conversion Loss
+    was shown to be of tantamount significance. The non idealities of mixer's was
+    evident through these precise lab measurements.
+\end{abstract}
+
+\section{Introduction}
+
+\IEEEPARstart{T}{his} lab utilizes the spectrum analyzer, signal generator, and VNA acting as a
+signal generator to determine the conversion loss of the mixer under test. The
+VNA is also used to characterize the Mixer's Return Loss. An important aspect of
+this lab entails accounting for the cable loss present between the signal
+generator and the mixer LO. This Loss is calculated given the direct measurement
+with the spectrum analyzer.
+
+\section{Procedure}
+\section{Discussion and Summary}
+
+\appendices
+\section{Pre-Lab}
+% \section{Extra Photos}
+
+\end{document}
