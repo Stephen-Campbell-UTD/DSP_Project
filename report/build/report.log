@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.8) (preloaded format=xelatex 2021.9.10)  29 NOV 2021 10:50
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.8) (preloaded format=xelatex 2021.9.10)  29 NOV 2021 15:51
 entering extended mode
 **"c:/Users/kingi/Documents/UTD/Fall 21/EE 4361 DSP/Project/report/report.tex"
 (c:/Users/kingi/Documents/UTD/Fall 21/EE 4361 DSP/Project/report/report.tex
@@ -839,33 +839,105 @@ File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfnodepartsevenbox=\box95
 \pgfnodepartsixbox=\box96
 \pgfnodepartfivebox=\box97
-)))
-\@quotelevel=\count447
-\@quotereset=\count448
-Package translations Info: No language package found. I am going to use `english' as default language. on input line 47.
+))) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/bigfoot\bigfoot.sty
+Package: bigfoot 2015/08/30 2.1 makes footnotes work
+ (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/ncctools\manyfoot.sty
+Package: manyfoot 2019/08/03 v1.11 Many Footnote Levels Package (NCC)
+ (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/ncctools\nccfoots.sty
+Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
+)
+\MFL@columnwidth=\dimen306
+) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/bigfoot\suffix.sty
+Package: suffix 2006/07/15 1.5a Variant command support
+) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/bigfoot\perpage.sty
+Package: perpage 2014/10/25 2.0 Reset/sort counters per page
+\c@abspage=\count447
+)
+\footnotewidowpenalty=\count448
+\footnoteclubpenalty=\count449
+\finalfootnotewidowpenalty=\count450
+\c@FN@totalid=\count451
+\c@pp@a@FN@totalid=\count452
+\FN@id=\count453
+\FN@master=\marks1
+\FN@slave=\marks2
+\FN@color=\marks3
+\FN@outervsize=\dimen307
+\FN@vsize=\skip79
+\FN@insertions=\box98
+\FN@output=\toks39
+\FN@tempbox=\box99
+\FN@savebox=\insert252
+\FN@topmarkbox=\box100
+\FN@outputflag=\count454
+\FN@myvsize=\dimen308
+\bigfoottolerance=\count455
+) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count456
+\lst@gtempboxa=\box101
+\lst@token=\toks40
+\lst@length=\count457
+\lst@currlwidth=\dimen309
+\lst@column=\count458
+\lst@pos=\count459
+\lst@lostspace=\dimen310
+\lst@width=\dimen311
+\lst@newlines=\count460
+\lst@lineno=\count461
+\lst@maxwidth=\dimen312
+ (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count462
+\lst@skipnumbers=\count463
+\lst@framebox=\box102
+) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/matlab-prettifier\matlab-prettifier.sty
+Package: matlab-prettifier 2014/06/19 v0.3 A package for prettyprinting Matlab source code
+ (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+\netBracketCount@mlpr=\count464
+\blkLvl@mlpr=\count465
+\blkLvlAtClassdef@mlpr=\count466
+\emHeight@mlpr=\skip80
+\jayDepth@mlpr=\skip81
+\sectionRuleOffset@mlpr=\skip82
+\toks@mlpr=\toks41
+) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 112.
+ (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+))
+\@quotelevel=\count467
+\@quotereset=\count468
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 63.
  (c:\Users\kingi\Documents\UTD\Fall 21\EE 4361 DSP\Project\report\build\report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 47.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 63.
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
 
 -- Lines per column: 58 (exact).
 Package biblatex Info: Trying to load language 'english'...
@@ -890,44 +962,97 @@ Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'report.bbl' found.
  (c:\Users\kingi\Documents\UTD\Fall 21\EE 4361 DSP\Project\report\build\report.bbl)
-Package biblatex Info: Reference section=0 on input line 47.
-Package biblatex Info: Reference segment=0 on input line 47.
+Package biblatex Info: Reference section=0 on input line 63.
+Package biblatex Info: Reference segment=0 on input line 63.
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 47.
-LaTeX Info: Redefining \celsius on input line 47.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 47.
-
-
-Package gensymb Warning: Not defining \perthousand.
-
-LaTeX Info: Redefining \ohm on input line 47.
-Package gensymb Info: Using \Omega for \ohm on input line 47.
-
-Package gensymb Warning: Not defining \micro.
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 87.
-(C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 63.
+\symgns@font=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/ptm/m/n --> TS1/ptm/b/n on input line 63.
+Package gensymb Info: Math companion symbols declared on input line 63.
+LaTeX Info: Redefining \degree on input line 63.
+LaTeX Info: Redefining \celsius on input line 63.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 63.
+LaTeX Info: Redefining \ohm on input line 63.
+Package gensymb Info: Using \textohm for \ohm on input line 63.
+LaTeX Info: Redefining \micro on input line 63.
+Package gensymb Info: Using \textmu for \micro on input line 63.
+\footinsdefault=\insert251
+\FN@cache251=\box103
+\c@lstlisting=\count469
+LaTeX Font Info:    Trying to load font information for U+msa on input line 111.
+ (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 87.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 111.
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OMX+yhex on input line 87.
+LaTeX Font Info:    Trying to load font information for OMX+yhex on input line 111.
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/yhmath\omxyhex.fd
 File: OMXyhex.fd 
 File: OMXyhex.fd 2013/07/03 v1.1 YH's humble contribution to TeX maths (NP)
 )
-File: ./images//freq_recon.png Graphic file (type bmp)
-<./images//freq_recon.png>
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 111.
+ (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [1
+
+
+]
+Underfull \hbox (badness 2426) in paragraph at lines 232--238
+[]\T1/ptm/m/n/10 Unfortunately, de-mod-u-la-tion also re-sults in fre-quency
+ []
+
 File: ./images//time_recon.png Graphic file (type bmp)
 <./images//time_recon.png>
- [1
+File: ./images//freq_recon.png Graphic file (type bmp)
+<./images//freq_recon.png>
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/it' instead on input line 293.
+
+LaTeX Font Info:    Trying to load font information for T1+fvm on input line 297.
+(C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/bera\t1fvm.fd
+File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
+)
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 8.50006pt on input line 297.
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 6.80005pt on input line 297.
+LaTeX Font Info:    Trying to load font information for TS1+fvm on input line 300.
+ (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/bera\ts1fvm.fd
+File: ts1fvm.fd 2004/09/07 scalable font definitions for TS1/fvm.
+)
+LaTeX Font Info:    Font shape `TS1/fvm/m/n' will be
+(Font)              scaled to size 6.80005pt on input line 300.
+Package textcomp Info: Symbol \textminus not provided by
+(textcomp)             font family fvm in TS1 encoding.
+(textcomp)             Default family used instead on input line 303.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 303.
+ (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package textcomp Info: Symbol \textminus not provided by
+(textcomp)             font family fvm in TS1 encoding.
+(textcomp)             Default family used instead on input line 315.
 
 
-] [2
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 2057) in paragraph at lines 326--328
+[]\T1/ptm/m/n/10 This source of the la-tex re-port, the \T1/ptm/m/it/10 MAT-LAB \T1/ptm/m/n/10 code,
+ []
+
+
+Underfull \hbox (badness 3000) in paragraph at lines 326--328
+\T1/ptm/m/n/10 and all ref-er-ences can be found at $https : / / github . com /
+ []
+
+[2] [3
 
 ] (c:\Users\kingi\Documents\UTD\Fall 21\EE 4361 DSP\Project\report\build\report.aux)
 Package logreq Info: Writing requests to 'report.run.xml'.
@@ -935,12 +1060,12 @@ Package logreq Info: Writing requests to 'report.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27776 strings out of 411335
- 591750 string characters out of 2832716
- 1352915 words of memory out of 3000000
- 47753 multiletter control sequences out of 15000+600000
- 435911 words of font info for 96 fonts, out of 8000000 for 9000
+ 29883 strings out of 411335
+ 624017 string characters out of 2832716
+ 1447435 words of memory out of 3000000
+ 49802 multiletter control sequences out of 15000+600000
+ 514866 words of font info for 146 fonts, out of 8000000 for 9000
  1351 hyphenation exceptions out of 8191
- 84i,19n,89p,1197b,3608s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 84i,16n,89p,1197b,3608s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on c:\Users\kingi\Documents\UTD\Fall 21\EE 4361 DSP\Project\report\build\report.xdv (2 pages, 16168 bytes).
+Output written on c:\Users\kingi\Documents\UTD\Fall 21\EE 4361 DSP\Project\report\build\report.xdv (3 pages, 28304 bytes).
