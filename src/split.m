@@ -77,9 +77,9 @@ xlabel("Frequency (Hz)")
 ylabel("|X_2(k)|")
 sgtitle("Magnitude Spectrum of X_1(k) and X_2(k)")
 saveas(gcf,"../report/images/freq_recon.png")
-% sound(2*right_hat,Fs_mic)
-% input("Press enter")
-% sound(2*left_hat,Fs_mic)
+sound(2*right_hat,Fs_mic)
+input("Press enter")
+sound(2*left_hat,Fs_mic)
 
 function plot_fft_mag(sig_fft,Fs)
     num_samples = length(sig_fft);
