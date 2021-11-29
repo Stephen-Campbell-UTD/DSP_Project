@@ -1,30 +1,27 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.8) (preloaded format=xelatex 2021.9.10)  29 NOV 2021 10:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.14)  29 NOV 2021 10:41
 entering extended mode
 **"c:/Users/kingi/Documents/UTD/Fall 21/EE 4361 DSP/Project/report/report.tex"
 (c:/Users/kingi/Documents/UTD/Fall 21/EE 4361 DSP/Project/report/report.tex
 LaTeX2e <2021-06-01> patch level 1
 L3 programming layer <2021-08-27> (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 112.
- (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
-File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/ieeetran\IEEEtran.cls
+) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/ieeetran\IEEEtran.cls
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
 -- http://www.michaelshell.org/tex/ieeetran/
 \@IEEEtrantmpdimenA=\dimen138
 \@IEEEtrantmpdimenB=\dimen139
 \@IEEEtrantmpdimenC=\dimen140
-\@IEEEtrantmpcountA=\count178
-\@IEEEtrantmpcountB=\count179
-\@IEEEtrantmpcountC=\count180
+\@IEEEtrantmpcountA=\count182
+\@IEEEtrantmpcountB=\count183
+\@IEEEtrantmpcountC=\count184
 \@IEEEtrantmptoksA=\toks16
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 503.
 (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 -- Using 8.5in x 11in (letter) paper.
--- Using DVI output.
+-- Using PDF output.
 \@IEEEnormalsizeunitybaselineskip=\dimen141
 -- This is a 10 point document.
 \CLASSINFOnormalsizebaselineskip=\dimen142
@@ -82,27 +79,27 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 \IEEEiednormlabelsep=\dimen154
 \IEEEiedmathlabelsep=\dimen155
 \IEEEiedtopsep=\skip47
-\c@section=\count181
-\c@subsection=\count182
-\c@subsubsection=\count183
-\c@paragraph=\count184
-\c@IEEEsubequation=\count185
+\c@section=\count185
+\c@subsection=\count186
+\c@subsubsection=\count187
+\c@paragraph=\count188
+\c@IEEEsubequation=\count189
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
-\c@figure=\count186
-\c@table=\count187
-\@IEEEeqnnumcols=\count188
-\@IEEEeqncolcnt=\count189
-\@IEEEsubeqnnumrollback=\count190
+\c@figure=\count190
+\c@table=\count191
+\@IEEEeqnnumcols=\count192
+\@IEEEeqncolcnt=\count193
+\@IEEEsubeqnnumrollback=\count194
 \@IEEEquantizeheightA=\dimen156
 \@IEEEquantizeheightB=\dimen157
 \@IEEEquantizeheightC=\dimen158
 \@IEEEquantizeprevdepth=\dimen159
-\@IEEEquantizemultiple=\count191
+\@IEEEquantizemultiple=\count195
 \@IEEEquantizeboxA=\box50
 \@IEEEtmpitemindent=\dimen160
 \IEEEPARstartletwidth=\dimen161
-\c@IEEEbiography=\count192
+\c@IEEEbiography=\count196
 \@IEEEtranrubishbin=\box51
 ) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
@@ -117,10 +114,10 @@ Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode not found.
+Package pdftexcmds Info: \pdfdraftmode found.
 ) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count193
+\etb@tempcnta=\count197
 ) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
@@ -130,7 +127,7 @@ Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count194
+\lrq@indent=\count198
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 )) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
@@ -139,48 +136,48 @@ Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count195
-\c@listtotal=\count196
-\c@listcount=\count197
-\c@liststart=\count198
-\c@liststop=\count199
-\c@citecount=\count266
-\c@citetotal=\count267
-\c@multicitecount=\count268
-\c@multicitetotal=\count269
-\c@instcount=\count270
-\c@maxnames=\count271
-\c@minnames=\count272
-\c@maxitems=\count273
-\c@minitems=\count274
-\c@citecounter=\count275
-\c@maxcitecounter=\count276
-\c@savedcitecounter=\count277
-\c@uniquelist=\count278
-\c@uniquename=\count279
-\c@refsection=\count280
-\c@refsegment=\count281
-\c@maxextratitle=\count282
-\c@maxextratitleyear=\count283
-\c@maxextraname=\count284
-\c@maxextradate=\count285
-\c@maxextraalpha=\count286
-\c@abbrvpenalty=\count287
-\c@highnamepenalty=\count288
-\c@lownamepenalty=\count289
-\c@maxparens=\count290
-\c@parenlevel=\count291
-\blx@tempcnta=\count292
-\blx@tempcntb=\count293
-\blx@tempcntc=\count294
-\blx@maxsection=\count295
-\blx@maxsegment@0=\count296
-\blx@notetype=\count297
-\blx@parenlevel@text=\count298
-\blx@parenlevel@foot=\count299
-\blx@sectionciteorder@0=\count300
-\blx@entrysetcounter=\count301
-\blx@biblioinstance=\count302
+\c@tabx@nest=\count199
+\c@listtotal=\count266
+\c@listcount=\count267
+\c@liststart=\count268
+\c@liststop=\count269
+\c@citecount=\count270
+\c@citetotal=\count271
+\c@multicitecount=\count272
+\c@multicitetotal=\count273
+\c@instcount=\count274
+\c@maxnames=\count275
+\c@minnames=\count276
+\c@maxitems=\count277
+\c@minitems=\count278
+\c@citecounter=\count279
+\c@maxcitecounter=\count280
+\c@savedcitecounter=\count281
+\c@uniquelist=\count282
+\c@uniquename=\count283
+\c@refsection=\count284
+\c@refsegment=\count285
+\c@maxextratitle=\count286
+\c@maxextratitleyear=\count287
+\c@maxextraname=\count288
+\c@maxextradate=\count289
+\c@maxextraalpha=\count290
+\c@abbrvpenalty=\count291
+\c@highnamepenalty=\count292
+\c@lownamepenalty=\count293
+\c@maxparens=\count294
+\c@parenlevel=\count295
+\blx@tempcnta=\count296
+\blx@tempcntb=\count297
+\blx@tempcntc=\count298
+\blx@maxsection=\count299
+\blx@maxsegment@0=\count300
+\blx@notetype=\count301
+\blx@parenlevel@text=\count302
+\blx@parenlevel@foot=\count303
+\blx@sectionciteorder@0=\count304
+\blx@entrysetcounter=\count305
+\blx@biblioinstance=\count306
 \labelnumberwidth=\skip50
 \labelalphawidth=\skip51
 \biblabelsep=\skip52
@@ -192,9 +189,9 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language79
-\c@mincomprange=\count303
-\c@maxcomprange=\count304
-\c@mincompwidth=\count305
+\c@mincomprange=\count307
+\c@maxcomprange=\count308
+\c@mincompwidth=\count309
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
@@ -204,74 +201,74 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'ieee.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count306
-\c@savedafterword=\count307
-\c@annotator=\count308
-\c@savedannotator=\count309
-\c@author=\count310
-\c@savedauthor=\count311
-\c@bookauthor=\count312
-\c@savedbookauthor=\count313
-\c@commentator=\count314
-\c@savedcommentator=\count315
-\c@editor=\count316
-\c@savededitor=\count317
-\c@editora=\count318
-\c@savededitora=\count319
-\c@editorb=\count320
-\c@savededitorb=\count321
-\c@editorc=\count322
-\c@savededitorc=\count323
-\c@foreword=\count324
-\c@savedforeword=\count325
-\c@holder=\count326
-\c@savedholder=\count327
-\c@introduction=\count328
-\c@savedintroduction=\count329
-\c@namea=\count330
-\c@savednamea=\count331
-\c@nameb=\count332
-\c@savednameb=\count333
-\c@namec=\count334
-\c@savednamec=\count335
-\c@translator=\count336
-\c@savedtranslator=\count337
-\c@shortauthor=\count338
-\c@savedshortauthor=\count339
-\c@shorteditor=\count340
-\c@savedshorteditor=\count341
-\c@labelname=\count342
-\c@savedlabelname=\count343
-\c@institution=\count344
-\c@savedinstitution=\count345
-\c@lista=\count346
-\c@savedlista=\count347
-\c@listb=\count348
-\c@savedlistb=\count349
-\c@listc=\count350
-\c@savedlistc=\count351
-\c@listd=\count352
-\c@savedlistd=\count353
-\c@liste=\count354
-\c@savedliste=\count355
-\c@listf=\count356
-\c@savedlistf=\count357
-\c@location=\count358
-\c@savedlocation=\count359
-\c@organization=\count360
-\c@savedorganization=\count361
-\c@origlocation=\count362
-\c@savedoriglocation=\count363
-\c@origpublisher=\count364
-\c@savedorigpublisher=\count365
-\c@publisher=\count366
-\c@savedpublisher=\count367
-\c@language=\count368
-\c@savedlanguage=\count369
-\c@origlanguage=\count370
-\c@savedoriglanguage=\count371
-\c@pageref=\count372
-\c@savedpageref=\count373
+\c@afterword=\count310
+\c@savedafterword=\count311
+\c@annotator=\count312
+\c@savedannotator=\count313
+\c@author=\count314
+\c@savedauthor=\count315
+\c@bookauthor=\count316
+\c@savedbookauthor=\count317
+\c@commentator=\count318
+\c@savedcommentator=\count319
+\c@editor=\count320
+\c@savededitor=\count321
+\c@editora=\count322
+\c@savededitora=\count323
+\c@editorb=\count324
+\c@savededitorb=\count325
+\c@editorc=\count326
+\c@savededitorc=\count327
+\c@foreword=\count328
+\c@savedforeword=\count329
+\c@holder=\count330
+\c@savedholder=\count331
+\c@introduction=\count332
+\c@savedintroduction=\count333
+\c@namea=\count334
+\c@savednamea=\count335
+\c@nameb=\count336
+\c@savednameb=\count337
+\c@namec=\count338
+\c@savednamec=\count339
+\c@translator=\count340
+\c@savedtranslator=\count341
+\c@shortauthor=\count342
+\c@savedshortauthor=\count343
+\c@shorteditor=\count344
+\c@savedshorteditor=\count345
+\c@labelname=\count346
+\c@savedlabelname=\count347
+\c@institution=\count348
+\c@savedinstitution=\count349
+\c@lista=\count350
+\c@savedlista=\count351
+\c@listb=\count352
+\c@savedlistb=\count353
+\c@listc=\count354
+\c@savedlistc=\count355
+\c@listd=\count356
+\c@savedlistd=\count357
+\c@liste=\count358
+\c@savedliste=\count359
+\c@listf=\count360
+\c@savedlistf=\count361
+\c@location=\count362
+\c@savedlocation=\count363
+\c@organization=\count364
+\c@savedorganization=\count365
+\c@origlocation=\count366
+\c@savedoriglocation=\count367
+\c@origpublisher=\count368
+\c@savedorigpublisher=\count369
+\c@publisher=\count370
+\c@savedpublisher=\count371
+\c@language=\count372
+\c@savedlanguage=\count373
+\c@origlanguage=\count374
+\c@savedoriglanguage=\count375
+\c@pageref=\count376
+\c@savedpageref=\count377
 \shorthandwidth=\skip58
 \shortjournalwidth=\skip59
 \shortserieswidth=\skip60
@@ -286,9 +283,6 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorttitlewidth=\skip69
 \localshortauthorwidth=\skip70
 \localshorteditorwidth=\skip71
-Package biblatex Info: Trying to load enhanced support for Unicode engines...
-Package biblatex Info: ... file 'blx-unicode.def' found.
- (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-unicode.def)
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
@@ -298,19 +292,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
-\c@textcitecount=\count374
-\c@textcitetotal=\count375
-\c@textcitemaxnames=\count376
-\c@biburlbigbreakpenalty=\count377
-\c@biburlbreakpenalty=\count378
-\c@biburlnumpenalty=\count379
-\c@biburlucpenalty=\count380
-\c@biburllcpenalty=\count381
+\c@textcitecount=\count378
+\c@textcitetotal=\count379
+\c@textcitemaxnames=\count380
+\c@biburlbigbreakpenalty=\count381
+\c@biburlbreakpenalty=\count382
+\c@biburlnumpenalty=\count383
+\c@biburlucpenalty=\count384
+\c@biburllcpenalty=\count385
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count382
+\c@smartand=\count386
 )
 Package biblatex Info: Trying to load bibliography style 'ieee'...
 Package biblatex Info: ... file 'ieee.bbx' found.
@@ -328,8 +322,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
 File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count383
-\c@bbx:relatedtotal=\count384
+\c@bbx:relatedcount=\count387
+\c@bbx:relatedtotal=\count388
 ))))
 Package biblatex Info: Trying to load citation style 'ieee'...
 Package biblatex Info: ... file 'ieee.cbx' found.
@@ -339,10 +333,10 @@ Package biblatex Info: Trying to load citation style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.cbx' found.
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric-comp.cbx
 File: numeric-comp.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
-\c@cbx@tempcnta=\count385
-\c@cbx@tempcntb=\count386
-\c@cbx@tempcntc=\count387
-\c@cbx@tempcntd=\count388
+\c@cbx@tempcnta=\count389
+\c@cbx@tempcntb=\count390
+\c@cbx@tempcntc=\count391
+\c@cbx@tempcntd=\count392
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -379,13 +373,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 ) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count389
+\inf@bad=\count393
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count390
-\leftroot@=\count391
+\uproot@=\count394
+\leftroot@=\count395
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count392
-\DOTSCASE@=\count393
+\classnum@=\count396
+\DOTSCASE@=\count397
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -394,15 +388,15 @@ LaTeX Info: Redefining \cdots on input line 620.
 \big@size=\dimen164
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count394
-\c@MaxMatrixCols=\count395
+\macc@depth=\count398
+\c@MaxMatrixCols=\count399
 \dotsspace@=\muskip21
-\c@parentequation=\count396
-\dspbrk@lvl=\count397
+\c@parentequation=\count400
+\dspbrk@lvl=\count401
 \tag@help=\toks19
-\row@=\count398
-\column@=\count399
-\maxfields@=\count400
+\row@=\count402
+\column@=\count403
+\maxfields@=\count404
 \andhelp@=\toks20
 \eqnshift@=\dimen165
 \alignsep@=\dimen166
@@ -437,12 +431,12 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen178
 \cmidrulekern=\dimen179
 \defaultaddspace=\dimen180
-\@cmidla=\count401
-\@cmidlb=\count402
+\@cmidla=\count405
+\@cmidlb=\count406
 \@aboverulesep=\dimen181
 \@belowrulesep=\dimen182
-\@thisruleclass=\count403
-\@lastruleclass=\count404
+\@thisruleclass=\count407
+\@lastruleclass=\count408
 \@thisrulewidth=\dimen183
 ) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
@@ -461,7 +455,7 @@ Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
 \TX@old@col=\dimen188
 \TX@target=\dimen189
 \TX@delta=\dimen190
-\TX@cols=\count405
+\TX@cols=\count409
 \TX@ftn=\toks24
 ) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
@@ -472,15 +466,15 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 ) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: xetex.def on input line 107.
- (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
-File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen191
 \Gin@req@width=\dimen192
 ) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count406
+\c@float@type=\count410
 \float@exts=\toks25
 \float@box=\box56
 \@float@everytoks=\toks26
@@ -489,17 +483,10 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 Package: physics 
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2021-08-27 L3 programming layer (loader) 
- (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xetex.def
-File: l3backend-xetex.def 2021-08-04 L3 backend support: XeTeX
- ()
-\c__kernel_sys_dvipdfmx_version_int=\count407
-\l__color_backend_stack_int=\count408
-\g__color_backend_stack_int=\count409
-\g__graphics_track_int=\count410
+ (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count411
 \l__pdf_internal_box=\box58
-\g__pdf_backend_object_int=\count411
-\g__pdf_backend_annotation_int=\count412
-\g__pdf_backend_link_int=\count413
 ))
 Package: xparse 2021-08-27 L3 Experimental document command parser
 )) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
@@ -532,30 +519,26 @@ Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@yd=\dimen260
 \w@pgf@writea=\write4
 \r@pgf@reada=\read3
-\c@pgf@counta=\count414
-\c@pgf@countb=\count415
-\c@pgf@countc=\count416
-\c@pgf@countd=\count417
+\c@pgf@counta=\count412
+\c@pgf@countb=\count413
+\c@pgf@countc=\count414
+\c@pgf@countd=\count415
 \t@pgf@toka=\toks31
 \t@pgf@tokb=\toks32
 \t@pgf@tokc=\toks33
-\pgf@sys@id@count=\count418
+\pgf@sys@id@count=\count416
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
 )
-Driver file for pgf: pgfsys-xetex.def
- (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-xetex.def
-File: pgfsys-xetex.def 2021/05/15 v3.1.9a (3.1.9a)
- (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-dvipdfmx.def
-File: pgfsys-dvipdfmx.def 2021/05/15 v3.1.9a (3.1.9a)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
-)
-\pgfsys@objnum=\count419
 ))) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count420
-\pgfsyssoftpath@bigbuffer@items=\count421
+\pgfsyssoftpath@smallbuffer@items=\count417
+\pgfsyssoftpath@bigbuffer@items=\count418
 ) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
@@ -563,8 +546,9 @@ Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
@@ -576,13 +560,13 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen261
-\pgfmath@count=\count422
+\pgfmath@count=\count419
 \pgfmath@box=\box60
 \pgfmath@toks=\toks34
 \pgfmath@stack@operand=\toks35
 \pgfmath@stack@operation=\toks36
 ) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex))) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count423
+\c@pgfmathroundto@lastzeros=\count420
 )) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@picminx=\dimen262
@@ -612,7 +596,7 @@ File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfpic=\box61
 \pgf@hbox=\box62
 \pgf@layerbox@main=\box63
-\pgf@picture@serial@count=\count424
+\pgf@picture@serial@count=\count421
 ) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgflinewidth=\dimen280
@@ -633,8 +617,8 @@ File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@max=\dimen285
-\pgf@sys@shading@range@num=\count425
-\pgf@shadingcount=\count426
+\pgf@sys@shading@range@num=\count422
+\pgf@shadingcount=\count423
 ) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
@@ -670,7 +654,7 @@ Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count427
+\pgf@plot@mark@count=\count424
 \pgfplotmarksize=\dimen290
 )
 \tikz@lastx=\dimen291
@@ -685,17 +669,17 @@ File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \tikz@figbox@bg=\box67
 \tikz@tempbox=\box68
 \tikz@tempbox@bg=\box69
-\tikztreelevel=\count428
-\tikznumberofchildren=\count429
-\tikznumberofcurrentchild=\count430
-\tikz@fig@count=\count431
+\tikztreelevel=\count425
+\tikznumberofchildren=\count426
+\tikznumberofcurrentchild=\count427
+\tikz@fig@count=\count428
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count432
-\pgfmatrixcurrentcolumn=\count433
-\pgf@matrix@numberofcolumns=\count434
+\pgfmatrixcurrentrow=\count429
+\pgfmatrixcurrentcolumn=\count430
+\pgf@matrix@numberofcolumns=\count431
 )
-\tikz@expandcount=\count435
+\tikz@expandcount=\count432
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/mathdots\mathdots.sty
@@ -745,15 +729,15 @@ Package: siunitx 2021-08-27 v3.0.28 A comprehensive (SI) units package
 \l__siunitx_angle_tmp_dim=\dimen300
 \l__siunitx_angle_marker_box=\box71
 \l__siunitx_angle_unit_box=\box72
-\l__siunitx_compound_count_int=\count436
+\l__siunitx_compound_count_int=\count433
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/translations\translations.sty
 Package: translations 2021/01/17 v1.10a internationalization of LaTeX2e packages (CN)
 )
-\l__siunitx_number_exponent_fixed_int=\count437
-\l__siunitx_number_min_decimal_int=\count438
-\l__siunitx_number_min_integer_int=\count439
-\l__siunitx_number_round_precision_int=\count440
-\l__siunitx_number_group_minimum_int=\count441
+\l__siunitx_number_exponent_fixed_int=\count434
+\l__siunitx_number_min_decimal_int=\count435
+\l__siunitx_number_min_integer_int=\count436
+\l__siunitx_number_round_precision_int=\count437
+\l__siunitx_number_group_minimum_int=\count438
 \l__siunitx_table_tmp_box=\box73
 \l__siunitx_table_tmp_dim=\dimen301
 \l__siunitx_table_column_width_dim=\dimen302
@@ -763,9 +747,9 @@ Package: translations 2021/01/17 v1.10a internationalization of LaTeX2e packages
 \l__siunitx_table_after_box=\box77
 \l__siunitx_table_before_dim=\dimen303
 \l__siunitx_table_carry_dim=\dimen304
-\l__siunitx_unit_tmp_int=\count442
-\l__siunitx_unit_position_int=\count443
-\l__siunitx_unit_total_int=\count444
+\l__siunitx_unit_tmp_int=\count439
+\l__siunitx_unit_position_int=\count440
+\l__siunitx_unit_total_int=\count441
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
 Package: l3keys2e 2021-08-27 LaTeX2e option processing using LaTeX3 keys
 )
@@ -776,7 +760,7 @@ Package siunitx Warning: Detected the "physics" package:
 ) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip77
-\multirow@cntb=\count445
+\multirow@cntb=\count442
 \multirow@dima=\skip78
 \bigstrutjot=\dimen305
 ) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/was\gensymb.sty
@@ -796,7 +780,7 @@ File: tikzlibraryshadows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-\pgfbs@fading@count=\count446
+\pgfbs@fading@count=\count443
 ) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.code.tex
 File: tikzlibraryshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.geometric.code.tex
@@ -840,32 +824,26 @@ File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfnodepartsixbox=\box96
 \pgfnodepartfivebox=\box97
 )))
-\@quotelevel=\count447
-\@quotereset=\count448
-Package translations Info: No language package found. I am going to use `english' as default language. on input line 47.
- (c:\Users\kingi\Documents\UTD\Fall 21\EE 4361 DSP\Project\report\build\report.aux)
+\@quotelevel=\count444
+\@quotereset=\count445
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 46.
+ (report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 47.
- (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
-File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
 
 -- Lines per column: 58 (exact).
 Package biblatex Info: Trying to load language 'english'...
@@ -873,8 +851,7 @@ Package biblatex Info: ... file 'english.lbx' found.
 (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
 File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
 )
-Package biblatex Info: XeTeX detected.
-(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
 Package biblatex Info: Document encoding is UTF8 ....
@@ -888,59 +865,143 @@ Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 \openout3 = `report.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'report.bbl' found.
- (c:\Users\kingi\Documents\UTD\Fall 21\EE 4361 DSP\Project\report\build\report.bbl)
-Package biblatex Info: Reference section=0 on input line 47.
-Package biblatex Info: Reference segment=0 on input line 47.
- (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
+Package biblatex Info: ... file 'report.bbl' not found.
+
+No file report.bbl.
+Package biblatex Info: Reference section=0 on input line 46.
+Package biblatex Info: Reference segment=0 on input line 46.
+(C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count446
+\scratchdimen=\dimen306
+\scratchbox=\box98
+\nofMPsegments=\count447
+\nofMParguments=\count448
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count449
+\MPscratchDim=\dimen307
+\MPnumerator=\count450
+\makeMPintoPDFobject=\count451
+\everyMPtoPDFconversion=\toks40
+) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)) (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 47.
-LaTeX Info: Redefining \celsius on input line 47.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 47.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 46.
+LaTeX Info: Redefining \celsius on input line 46.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 46.
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 47.
-Package gensymb Info: Using \Omega for \ohm on input line 47.
+LaTeX Info: Redefining \ohm on input line 46.
+Package gensymb Info: Using \Omega for \ohm on input line 46.
 
 Package gensymb Warning: Not defining \micro.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 87.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 86.
 (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 87.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 86.
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OMX+yhex on input line 87.
+LaTeX Font Info:    Trying to load font information for OMX+yhex on input line 86.
  (C:\Users\kingi\AppData\Local\Programs\MiKTeX\tex/latex/yhmath\omxyhex.fd
 File: OMXyhex.fd 
 File: OMXyhex.fd 2013/07/03 v1.1 YH's humble contribution to TeX maths (NP)
 )
-File: ./images//freq_recon.png Graphic file (type bmp)
-<./images//freq_recon.png>
-File: ./images//time_recon.png Graphic file (type bmp)
-<./images//time_recon.png>
- [1
+c:/Users/kingi/Documents/UTD/Fall 21/EE 4361 DSP/Project/report/report.tex:95: Undefined control sequence.
+<argument> ...egin {aligned} x_{1,a}( t) & \eqdef 
+                                                  \text {male speaker} \\ x_...
+l.95 \end{gather*}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/kingi/Documents/UTD/Fall 21/EE 4361 DSP/Project/report/report.tex:95: Undefined control sequence.
+<argument> ...le speaker} \\ x_{2,a}( t) & \eqdef 
+                                                  \text {female speaker} \en...
+l.95 \end{gather*}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/kingi/Documents/UTD/Fall 21/EE 4361 DSP/Project/report/report.tex:95: Undefined control sequence.
+<argument> ...egin {aligned} x_{1,a}( t) & \eqdef 
+                                                  \text {male speaker} \\ x_...
+l.95 \end{gather*}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/kingi/Documents/UTD/Fall 21/EE 4361 DSP/Project/report/report.tex:95: Undefined control sequence.
+<argument> ...le speaker} \\ x_{2,a}( t) & \eqdef 
+                                                  \text {female speaker} \en...
+l.95 \end{gather*}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/kingi/Documents/UTD/Fall 21/EE 4361 DSP/Project/report/report.tex:175: Undefined control sequence.
+<argument>  \operatorname {RECV} & \eqdef 
+                                          \text {Receiver to be designed} \\...
+l.175 \end{align*}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/kingi/Documents/UTD/Fall 21/EE 4361 DSP/Project/report/report.tex:175: Undefined control sequence.
+<argument>  \operatorname {RECV} & \eqdef 
+                                          \text {Receiver to be designed} \\...
+l.175 \end{align*}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1{C:/Users/kingi/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
 
-] [2
-
-] (c:\Users\kingi\Documents\UTD\Fall 21\EE 4361 DSP\Project\report\build\report.aux)
+] (report.aux)
 Package logreq Info: Writing requests to 'report.run.xml'.
 \openout1 = `report.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27776 strings out of 411335
- 591750 string characters out of 2832716
- 1352915 words of memory out of 3000000
- 47753 multiletter control sequences out of 15000+600000
- 435911 words of font info for 96 fonts, out of 8000000 for 9000
- 1351 hyphenation exceptions out of 8191
- 84i,19n,89p,1197b,3608s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28084 strings out of 478927
+ 607597 string characters out of 2852535
+ 1309291 words of memory out of 3000000
+ 45494 multiletter control sequences out of 15000+600000
+ 441492 words of font info for 93 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 84i,19n,89p,1197b,763s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/kingi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/kingi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/kingi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/kingi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/kingi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/kingi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/kingi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/kingi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/kingi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/kingi/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/kingi/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/kingi/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/kingi/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb><C:/Users/kingi/AppData/Local/Programs/MiKTeX/fonts/type1/public/yhmath/yhcmex.pfb>
+Output written on report.pdf (1 page, 152483 bytes).
+PDF statistics:
+ 99 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 109 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on c:\Users\kingi\Documents\UTD\Fall 21\EE 4361 DSP\Project\report\build\report.xdv (2 pages, 16168 bytes).
