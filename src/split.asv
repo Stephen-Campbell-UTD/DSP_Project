@@ -3,6 +3,7 @@ clf;
 load DSPI_StereoRadio_MATLAB.mat
 Fs = 400e3;
 Ts = 1/(Fs);
+Fs_mic = 16e3;
 
 RXw =  fft(RXn);
 num_samples = length(RXw);
@@ -12,55 +13,59 @@ freq = freq_bin_factor*(0:num_samples-1)';
 mono_raw = modulate_signal(RXw,70e3,Fs);
 mono_fft = ideal_lowpass(mono_raw, 5e3,Fs);
 mono = ifft(mono_fft);
+mono_hat = downsample(mono, Fs/Fs_mic);
+
 
 sub_raw = modulate_signal(RXw,90e3,Fs);
 sub_fft = ideal_lowpass(sub_raw,5e3,Fs);
 sub = ifft(sub_fft);
-
-subplot(3,1,1)
+sub_hat = downsample(sub, Fs/Fs_mic);
 
 plot(freq,abs(RXw))
-subplot(3,1,2)
-hold on
-plot(freq,abs(mono_raw), 'r')
-plot(freq,abs(mono_fft), 'b')
-subplot(3,1,3)
-hold on
-plot(freq,abs(sub_raw) ,'r')
-plot(freq,abs(sub_fft), 'b')
-hold off
 
-dec_mono = downsample(mono,25);
-dec_sub = downsample(sub,25);
-Fs_mic = 400e3/25;
-num_mic_samples = length(dec_mono);
+figure;
+subplot(2,1,1)
+hold on
+plot(freq, abs(mono_raw), 'r')
+plot(freq,abs(mono_fft),'b')
+
+subplot(2,1,2)
+hold on
+plot(freq, abs(sub_raw), 'r')
+plot(freq,abs(sub_fft),'b')
+
+num_mic_samples = length(mono_hat);
 freq_mic = Fs_mic/num_mic_samples*(0:num_mic_samples-1)';
 
-figure
-hold on
-subplot(2,1,1)
-title('dec mono fft');
-plot(freq_mic,mag2db(abs(fft(dec_mono))))
-subplot(2,1,2)
-title('dec sub fft')
-plot(freq_mic, mag2db(abs(fft(dec_sub))))
+left_hat = 0.5*(mono_hat+sub_hat);
+left_hat_fft = fft(left_hat);
 
-% sound(dec_sub, Fs/2)
-% figure
-% plot(dec_mono)
-% sound(2*dec_mono,Fs/2)
-left = 0.5*(mono+sub);
-right = 0.5*(mono-sub);
-dec_left = downsample(left,2);
-dec_right = downsample(right,2);
-figure
-subplot(2,1,1);
-plot(left)
-subplot(2,1,2);
-plot(right)
-sound(2*dec_right,Fs/2)
-input("Press enter")
-sound(2*dec_left,Fs/2)
+right_hat = 0.5*(mono_hat-sub_hat);
+right_hat_fft = fft(right_hat);
+figure;
+subplot(2,1,1)
+hold on
+title("|X_1(k)|")
+plot(freq,abs(left_hat_fft),'b')
+
+subplot(2,1,2)
+hold on
+title("|X_2(k)|")
+plot(freq,abs(right_hat_fft),'b')
+sgtitle("Magnitude Spectrum of $x_1$ and $x_2")
+
+% sound(2*right_hat,Fs_mic)
+% input("Press enter")
+% sound(2*left_hat,Fs_mic)
+
+function plot_fft(sig_fft,Fs)
+    num_samples = length(sig_fft);
+    freq_bin_factor = Fs/num_samples;
+    lower_bound = 
+    upper_bound = 
+    freq = freq_bin_factor*(lower_bound:upperbound)';
+    plot(,fftshift(sig_fft))
+end
 
 function filtered_sig = ideal_lowpass(signal_fft,cutoff_freq,Fs)
     num_samples = length(signal_fft);
